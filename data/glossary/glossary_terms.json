@@ -1,0 +1,207 @@
+[
+  {
+    "telugu": ["రామ", "రాముడు", "శ్రీరామ", "శ్రీరాముడు"],
+    "canonical": "Rama",
+    "alternates": ["Sri Rama", "Shri Rama"],
+    "note": "Use Sri Rama where the surrounding devotional context explicitly uses an honorific."
+  },
+  {
+    "telugu": ["సీత", "సీతమ్మ"],
+    "canonical": "Sita",
+    "alternates": ["Sita Devi"],
+    "note": "Use Sita Devi only where the source uses an honorific or devotional address."
+  },
+  {
+    "telugu": ["లక్ష్మణ", "లక్ష్మణుడు"],
+    "canonical": "Lakshmana",
+    "alternates": ["Lakshman"],
+    "note": "Prefer Lakshmana throughout."
+  },
+  {
+    "telugu": ["భరత", "భరతుడు"],
+    "canonical": "Bharata",
+    "alternates": [],
+    "note": "Rama's brother Bharata."
+  },
+  {
+    "telugu": ["శత్రుఘ్న", "శత్రుఘ్నుడు"],
+    "canonical": "Shatrughna",
+    "alternates": [],
+    "note": "Rama's brother Shatrughna."
+  },
+  {
+    "telugu": ["దశరథ", "దశరథుడు"],
+    "canonical": "Dasharatha",
+    "alternates": ["Dasaratha"],
+    "note": "King Dasharatha of Ayodhya."
+  },
+  {
+    "telugu": ["కౌసల్య"],
+    "canonical": "Kausalya",
+    "alternates": ["Kaushalya"],
+    "note": "Queen Kausalya."
+  },
+  {
+    "telugu": ["కైకేయి"],
+    "canonical": "Kaikeyi",
+    "alternates": [],
+    "note": "Queen Kaikeyi."
+  },
+  {
+    "telugu": ["సుమిత్ర"],
+    "canonical": "Sumitra",
+    "alternates": [],
+    "note": "Queen Sumitra."
+  },
+  {
+    "telugu": ["వసిష్ఠ", "వశిష్ఠ", "వసిష్ట"],
+    "canonical": "Vasishtha",
+    "alternates": ["Vasishta"],
+    "note": "Royal sage Vasishtha."
+  },
+  {
+    "telugu": ["విశ్వామిత్ర", "విశ్వామిత్రుడు"],
+    "canonical": "Vishwamitra",
+    "alternates": ["Viswamitra"],
+    "note": "Sage Vishwamitra."
+  },
+  {
+    "telugu": ["వాల్మీకి", "వాల్మికీ"],
+    "canonical": "Valmiki",
+    "alternates": ["Valmeeki"],
+    "note": "Sage Valmiki."
+  },
+  {
+    "telugu": ["నారద", "నారదుడు"],
+    "canonical": "Narada",
+    "alternates": [],
+    "note": "Sage Narada."
+  },
+  {
+    "telugu": ["రావణ", "రావణుడు"],
+    "canonical": "Ravana",
+    "alternates": [],
+    "note": "King of Lanka."
+  },
+  {
+    "telugu": ["హనుమంత", "హనుమంతుడు", "ఆంజనేయ"],
+    "canonical": "Hanuman",
+    "alternates": ["Anjaneya"],
+    "note": "Use Hanuman unless the source specifically uses Anjaneya as a name."
+  },
+  {
+    "telugu": ["సుగ్రీవ", "సుగ్రీవుడు"],
+    "canonical": "Sugriva",
+    "alternates": [],
+    "note": "Vanara king Sugriva."
+  },
+  {
+    "telugu": ["వాలి", "వాలీ"],
+    "canonical": "Vali",
+    "alternates": ["Bali"],
+    "note": "Prefer Vali for consistency."
+  },
+  {
+    "telugu": ["అయోధ్య"],
+    "canonical": "Ayodhya",
+    "alternates": [],
+    "note": "Capital of Kosala."
+  },
+  {
+    "telugu": ["మిథిల", "మిథిలా"],
+    "canonical": "Mithila",
+    "alternates": [],
+    "note": "King Janaka's city."
+  },
+  {
+    "telugu": ["లంక"],
+    "canonical": "Lanka",
+    "alternates": [],
+    "note": "Ravana's kingdom."
+  },
+  {
+    "telugu": ["సరయూ", "సరయు"],
+    "canonical": "Sarayu",
+    "alternates": [],
+    "note": "Sacred river near Ayodhya."
+  },
+  {
+    "telugu": ["గంగ", "గంగా"],
+    "canonical": "Ganga",
+    "alternates": ["Ganges"],
+    "note": "Prefer Ganga in theological and epic context."
+  },
+  {
+    "telugu": ["ధర్మ", "ధర్మం"],
+    "canonical": "Dharma",
+    "alternates": [],
+    "note": "Do not flatten Dharma into only morality or duty; preserve religious context."
+  },
+  {
+    "telugu": ["యాగం", "యాగ", "యజ్ఞం", "యజ్ఞ"],
+    "canonical": "Yajna",
+    "alternates": ["Yaga"],
+    "note": "Use Yajna for Vedic sacrifice unless local phrasing clearly favors Yaga."
+  },
+  {
+    "telugu": ["ఋషి", "రిషి", "మహర్షి"],
+    "canonical": "Rishi",
+    "alternates": ["Maharshi"],
+    "note": "Use Maharshi when the source explicitly uses మహర్షి."
+  },
+  {
+    "telugu": ["రాక్షస", "రాక్షసుడు", "రాక్షసులు"],
+    "canonical": "Rakshasa",
+    "alternates": ["Demon"],
+    "note": "Prefer Rakshasa over demon to preserve epic terminology."
+  },
+  {
+    "telugu": ["వానర", "వానరుడు", "వానరులు"],
+    "canonical": "Vanara",
+    "alternates": [],
+    "note": "Do not reduce Vanara to monkey; preserve epic identity."
+  },
+  {
+    "telugu": ["బాలకాండ", "బాల కాండ"],
+    "canonical": "Bala Kanda",
+    "alternates": [],
+    "note": "First Kanda."
+  },
+  {
+    "telugu": ["అయోధ్యకాండ", "అయోధ్య కాండ"],
+    "canonical": "Ayodhya Kanda",
+    "alternates": [],
+    "note": "Second Kanda."
+  },
+  {
+    "telugu": ["అరణ్యకాండ", "అరణ్య కాండ"],
+    "canonical": "Aranya Kanda",
+    "alternates": [],
+    "note": "Forest Kanda."
+  },
+  {
+    "telugu": ["కిష్కింధకాండ", "కిష్కింధ కాండ"],
+    "canonical": "Kishkindha Kanda",
+    "alternates": ["Kishkinda Kanda"],
+    "note": "Sugriva and Vali section."
+  },
+  {
+    "telugu": ["సుందరకాండ", "సుందర కాండ"],
+    "canonical": "Sundara Kanda",
+    "alternates": [],
+    "note": "Hanuman's Lanka journey."
+  },
+  {
+    "telugu": ["యుద్ధకాండ", "యుద్ధ కాండ"],
+    "canonical": "Yuddha Kanda",
+    "alternates": ["Lanka Kanda"],
+    "note": "War Kanda."
+  },
+  {
+    "telugu": ["ఉత్తరకాండ", "ఉత్తర కాండ"],
+    "canonical": "Uttara Kanda",
+    "alternates": [],
+    "note": "Later Kanda, if present."
+  }
+]
+

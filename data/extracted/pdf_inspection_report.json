@@ -1,0 +1,2493 @@
+{
+  "summary": {
+    "source_file": "ramayana.pdf",
+    "total_pages": 248,
+    "text_based_pages": 247,
+    "scanned_pages": 0,
+    "mixed_pages": 0,
+    "garbled_or_weak_pages": 1,
+    "ocr_recommended_pages": 1
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "extracted_text_length": 112,
+      "telugu_char_count": 0,
+      "telugu_ratio": 0.0,
+      "image_count": 2,
+      "classification": "garbled",
+      "ocr_recommended": true,
+      "notes": "Embedded text has low Telugu ratio and may be encoded or noisy."
+    },
+    {
+      "page_number": 2,
+      "extracted_text_length": 1433,
+      "telugu_char_count": 1199,
+      "telugu_ratio": 1.7277,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 3,
+      "extracted_text_length": 567,
+      "telugu_char_count": 479,
+      "telugu_ratio": 1.723,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 4,
+      "extracted_text_length": 1059,
+      "telugu_char_count": 679,
+      "telugu_ratio": 1.6401,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 5,
+      "extracted_text_length": 1381,
+      "telugu_char_count": 901,
+      "telugu_ratio": 1.6352,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 6,
+      "extracted_text_length": 1303,
+      "telugu_char_count": 844,
+      "telugu_ratio": 1.6713,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 7,
+      "extracted_text_length": 1050,
+      "telugu_char_count": 675,
+      "telugu_ratio": 1.6791,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 8,
+      "extracted_text_length": 1178,
+      "telugu_char_count": 911,
+      "telugu_ratio": 1.687,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 9,
+      "extracted_text_length": 1551,
+      "telugu_char_count": 1275,
+      "telugu_ratio": 1.6602,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 10,
+      "extracted_text_length": 1206,
+      "telugu_char_count": 933,
+      "telugu_ratio": 1.7119,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 11,
+      "extracted_text_length": 1302,
+      "telugu_char_count": 1075,
+      "telugu_ratio": 1.7228,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 12,
+      "extracted_text_length": 1363,
+      "telugu_char_count": 1075,
+      "telugu_ratio": 1.72,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 13,
+      "extracted_text_length": 1504,
+      "telugu_char_count": 1242,
+      "telugu_ratio": 1.7014,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 14,
+      "extracted_text_length": 1303,
+      "telugu_char_count": 1014,
+      "telugu_ratio": 1.6985,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 15,
+      "extracted_text_length": 1297,
+      "telugu_char_count": 1023,
+      "telugu_ratio": 1.7136,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 16,
+      "extracted_text_length": 1267,
+      "telugu_char_count": 993,
+      "telugu_ratio": 1.7121,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 17,
+      "extracted_text_length": 1758,
+      "telugu_char_count": 1452,
+      "telugu_ratio": 1.7327,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 18,
+      "extracted_text_length": 1159,
+      "telugu_char_count": 891,
+      "telugu_ratio": 1.7267,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 19,
+      "extracted_text_length": 1552,
+      "telugu_char_count": 1283,
+      "telugu_ratio": 1.7697,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 20,
+      "extracted_text_length": 697,
+      "telugu_char_count": 565,
+      "telugu_ratio": 1.7994,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 21,
+      "extracted_text_length": 1352,
+      "telugu_char_count": 1053,
+      "telugu_ratio": 1.7011,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 22,
+      "extracted_text_length": 1635,
+      "telugu_char_count": 1352,
+      "telugu_ratio": 1.7311,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 23,
+      "extracted_text_length": 1316,
+      "telugu_char_count": 1030,
+      "telugu_ratio": 1.7167,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 24,
+      "extracted_text_length": 1562,
+      "telugu_char_count": 1298,
+      "telugu_ratio": 1.7261,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 25,
+      "extracted_text_length": 1425,
+      "telugu_char_count": 1126,
+      "telugu_ratio": 1.7243,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 26,
+      "extracted_text_length": 1800,
+      "telugu_char_count": 1489,
+      "telugu_ratio": 1.7294,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 27,
+      "extracted_text_length": 1215,
+      "telugu_char_count": 958,
+      "telugu_ratio": 1.7546,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 28,
+      "extracted_text_length": 1537,
+      "telugu_char_count": 1289,
+      "telugu_ratio": 1.7585,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 29,
+      "extracted_text_length": 1113,
+      "telugu_char_count": 860,
+      "telugu_ratio": 1.703,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 30,
+      "extracted_text_length": 1484,
+      "telugu_char_count": 1219,
+      "telugu_ratio": 1.7121,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 31,
+      "extracted_text_length": 1343,
+      "telugu_char_count": 1096,
+      "telugu_ratio": 1.7424,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 32,
+      "extracted_text_length": 1269,
+      "telugu_char_count": 997,
+      "telugu_ratio": 1.7309,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 33,
+      "extracted_text_length": 1735,
+      "telugu_char_count": 1429,
+      "telugu_ratio": 1.7114,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 34,
+      "extracted_text_length": 1132,
+      "telugu_char_count": 863,
+      "telugu_ratio": 1.7364,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 35,
+      "extracted_text_length": 1575,
+      "telugu_char_count": 1309,
+      "telugu_ratio": 1.7156,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 36,
+      "extracted_text_length": 1327,
+      "telugu_char_count": 1089,
+      "telugu_ratio": 1.7177,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 37,
+      "extracted_text_length": 1412,
+      "telugu_char_count": 1112,
+      "telugu_ratio": 1.7267,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 38,
+      "extracted_text_length": 1555,
+      "telugu_char_count": 1295,
+      "telugu_ratio": 1.7152,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 39,
+      "extracted_text_length": 1249,
+      "telugu_char_count": 959,
+      "telugu_ratio": 1.7125,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 40,
+      "extracted_text_length": 1640,
+      "telugu_char_count": 1345,
+      "telugu_ratio": 1.7355,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 41,
+      "extracted_text_length": 1090,
+      "telugu_char_count": 811,
+      "telugu_ratio": 1.6653,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 42,
+      "extracted_text_length": 1589,
+      "telugu_char_count": 1324,
+      "telugu_ratio": 1.7398,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 43,
+      "extracted_text_length": 1391,
+      "telugu_char_count": 1085,
+      "telugu_ratio": 1.7416,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 44,
+      "extracted_text_length": 1637,
+      "telugu_char_count": 1331,
+      "telugu_ratio": 1.7513,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 45,
+      "extracted_text_length": 1577,
+      "telugu_char_count": 1287,
+      "telugu_ratio": 1.7486,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 46,
+      "extracted_text_length": 1391,
+      "telugu_char_count": 1099,
+      "telugu_ratio": 1.75,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 47,
+      "extracted_text_length": 1829,
+      "telugu_char_count": 1506,
+      "telugu_ratio": 1.7431,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 48,
+      "extracted_text_length": 1202,
+      "telugu_char_count": 939,
+      "telugu_ratio": 1.7389,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 49,
+      "extracted_text_length": 1560,
+      "telugu_char_count": 1255,
+      "telugu_ratio": 1.7382,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 50,
+      "extracted_text_length": 1454,
+      "telugu_char_count": 1185,
+      "telugu_ratio": 1.7375,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 51,
+      "extracted_text_length": 1383,
+      "telugu_char_count": 1093,
+      "telugu_ratio": 1.7132,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 52,
+      "extracted_text_length": 1623,
+      "telugu_char_count": 1358,
+      "telugu_ratio": 1.7523,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 53,
+      "extracted_text_length": 1165,
+      "telugu_char_count": 871,
+      "telugu_ratio": 1.7112,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 54,
+      "extracted_text_length": 1730,
+      "telugu_char_count": 1448,
+      "telugu_ratio": 1.7238,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 55,
+      "extracted_text_length": 1286,
+      "telugu_char_count": 997,
+      "telugu_ratio": 1.7279,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 56,
+      "extracted_text_length": 1540,
+      "telugu_char_count": 1260,
+      "telugu_ratio": 1.7403,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 57,
+      "extracted_text_length": 1622,
+      "telugu_char_count": 1324,
+      "telugu_ratio": 1.7062,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 58,
+      "extracted_text_length": 1252,
+      "telugu_char_count": 974,
+      "telugu_ratio": 1.7393,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 59,
+      "extracted_text_length": 1572,
+      "telugu_char_count": 1318,
+      "telugu_ratio": 1.7573,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 60,
+      "extracted_text_length": 1184,
+      "telugu_char_count": 926,
+      "telugu_ratio": 1.7472,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 61,
+      "extracted_text_length": 1527,
+      "telugu_char_count": 1254,
+      "telugu_ratio": 1.7131,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 62,
+      "extracted_text_length": 1543,
+      "telugu_char_count": 1271,
+      "telugu_ratio": 1.7411,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 63,
+      "extracted_text_length": 1207,
+      "telugu_char_count": 938,
+      "telugu_ratio": 1.7055,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 64,
+      "extracted_text_length": 1509,
+      "telugu_char_count": 1232,
+      "telugu_ratio": 1.6831,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 65,
+      "extracted_text_length": 1233,
+      "telugu_char_count": 951,
+      "telugu_ratio": 1.7291,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 66,
+      "extracted_text_length": 1619,
+      "telugu_char_count": 1336,
+      "telugu_ratio": 1.6911,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 67,
+      "extracted_text_length": 1616,
+      "telugu_char_count": 1326,
+      "telugu_ratio": 1.7022,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 68,
+      "extracted_text_length": 1162,
+      "telugu_char_count": 896,
+      "telugu_ratio": 1.6938,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 69,
+      "extracted_text_length": 1505,
+      "telugu_char_count": 1255,
+      "telugu_ratio": 1.7626,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 70,
+      "extracted_text_length": 977,
+      "telugu_char_count": 727,
+      "telugu_ratio": 1.7351,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 71,
+      "extracted_text_length": 1336,
+      "telugu_char_count": 1089,
+      "telugu_ratio": 1.6936,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 72,
+      "extracted_text_length": 1315,
+      "telugu_char_count": 1077,
+      "telugu_ratio": 1.6961,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 73,
+      "extracted_text_length": 1346,
+      "telugu_char_count": 1064,
+      "telugu_ratio": 1.6835,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 74,
+      "extracted_text_length": 1570,
+      "telugu_char_count": 1300,
+      "telugu_ratio": 1.7219,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 75,
+      "extracted_text_length": 1260,
+      "telugu_char_count": 981,
+      "telugu_ratio": 1.6827,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 76,
+      "extracted_text_length": 1616,
+      "telugu_char_count": 1317,
+      "telugu_ratio": 1.7148,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 77,
+      "extracted_text_length": 1496,
+      "telugu_char_count": 1236,
+      "telugu_ratio": 1.7557,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 78,
+      "extracted_text_length": 1169,
+      "telugu_char_count": 912,
+      "telugu_ratio": 1.7273,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 79,
+      "extracted_text_length": 1541,
+      "telugu_char_count": 1269,
+      "telugu_ratio": 1.736,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 80,
+      "extracted_text_length": 1151,
+      "telugu_char_count": 890,
+      "telugu_ratio": 1.752,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 81,
+      "extracted_text_length": 1485,
+      "telugu_char_count": 1208,
+      "telugu_ratio": 1.7356,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 82,
+      "extracted_text_length": 1127,
+      "telugu_char_count": 921,
+      "telugu_ratio": 1.7215,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 83,
+      "extracted_text_length": 1218,
+      "telugu_char_count": 935,
+      "telugu_ratio": 1.7219,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 84,
+      "extracted_text_length": 1421,
+      "telugu_char_count": 1185,
+      "telugu_ratio": 1.7375,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 85,
+      "extracted_text_length": 1091,
+      "telugu_char_count": 893,
+      "telugu_ratio": 1.7306,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 86,
+      "extracted_text_length": 1141,
+      "telugu_char_count": 895,
+      "telugu_ratio": 1.7015,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 87,
+      "extracted_text_length": 1586,
+      "telugu_char_count": 1311,
+      "telugu_ratio": 1.7227,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 88,
+      "extracted_text_length": 1057,
+      "telugu_char_count": 805,
+      "telugu_ratio": 1.6947,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 89,
+      "extracted_text_length": 1524,
+      "telugu_char_count": 1229,
+      "telugu_ratio": 1.6882,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 90,
+      "extracted_text_length": 1559,
+      "telugu_char_count": 1285,
+      "telugu_ratio": 1.7156,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 91,
+      "extracted_text_length": 1302,
+      "telugu_char_count": 1015,
+      "telugu_ratio": 1.6973,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 92,
+      "extracted_text_length": 1600,
+      "telugu_char_count": 1333,
+      "telugu_ratio": 1.7312,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 93,
+      "extracted_text_length": 1062,
+      "telugu_char_count": 806,
+      "telugu_ratio": 1.7259,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 94,
+      "extracted_text_length": 1374,
+      "telugu_char_count": 1112,
+      "telugu_ratio": 1.7429,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 95,
+      "extracted_text_length": 1277,
+      "telugu_char_count": 1050,
+      "telugu_ratio": 1.7129,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 96,
+      "extracted_text_length": 1258,
+      "telugu_char_count": 995,
+      "telugu_ratio": 1.7673,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 97,
+      "extracted_text_length": 1478,
+      "telugu_char_count": 1244,
+      "telugu_ratio": 1.7326,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 98,
+      "extracted_text_length": 1110,
+      "telugu_char_count": 851,
+      "telugu_ratio": 1.7439,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 99,
+      "extracted_text_length": 1429,
+      "telugu_char_count": 1161,
+      "telugu_ratio": 1.7175,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 100,
+      "extracted_text_length": 1378,
+      "telugu_char_count": 1131,
+      "telugu_ratio": 1.7241,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 101,
+      "extracted_text_length": 1189,
+      "telugu_char_count": 901,
+      "telugu_ratio": 1.736,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 102,
+      "extracted_text_length": 1598,
+      "telugu_char_count": 1326,
+      "telugu_ratio": 1.7775,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 103,
+      "extracted_text_length": 1172,
+      "telugu_char_count": 876,
+      "telugu_ratio": 1.7347,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 104,
+      "extracted_text_length": 1479,
+      "telugu_char_count": 1225,
+      "telugu_ratio": 1.7401,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 105,
+      "extracted_text_length": 1456,
+      "telugu_char_count": 1176,
+      "telugu_ratio": 1.7396,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 106,
+      "extracted_text_length": 1204,
+      "telugu_char_count": 933,
+      "telugu_ratio": 1.7342,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 107,
+      "extracted_text_length": 1564,
+      "telugu_char_count": 1294,
+      "telugu_ratio": 1.7486,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 108,
+      "extracted_text_length": 955,
+      "telugu_char_count": 729,
+      "telugu_ratio": 1.6759,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 109,
+      "extracted_text_length": 1350,
+      "telugu_char_count": 1088,
+      "telugu_ratio": 1.7027,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 110,
+      "extracted_text_length": 1108,
+      "telugu_char_count": 898,
+      "telugu_ratio": 1.7303,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 111,
+      "extracted_text_length": 1414,
+      "telugu_char_count": 1097,
+      "telugu_ratio": 1.6877,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 112,
+      "extracted_text_length": 1575,
+      "telugu_char_count": 1288,
+      "telugu_ratio": 1.7405,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 113,
+      "extracted_text_length": 1256,
+      "telugu_char_count": 972,
+      "telugu_ratio": 1.6993,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 114,
+      "extracted_text_length": 1575,
+      "telugu_char_count": 1296,
+      "telugu_ratio": 1.7657,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 115,
+      "extracted_text_length": 1484,
+      "telugu_char_count": 1205,
+      "telugu_ratio": 1.7141,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 116,
+      "extracted_text_length": 1009,
+      "telugu_char_count": 778,
+      "telugu_ratio": 1.6803,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 117,
+      "extracted_text_length": 1472,
+      "telugu_char_count": 1222,
+      "telugu_ratio": 1.7019,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 118,
+      "extracted_text_length": 863,
+      "telugu_char_count": 700,
+      "telugu_ratio": 1.6949,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 119,
+      "extracted_text_length": 1257,
+      "telugu_char_count": 990,
+      "telugu_ratio": 1.7277,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 120,
+      "extracted_text_length": 1605,
+      "telugu_char_count": 1325,
+      "telugu_ratio": 1.7503,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 121,
+      "extracted_text_length": 1189,
+      "telugu_char_count": 928,
+      "telugu_ratio": 1.7378,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 122,
+      "extracted_text_length": 1521,
+      "telugu_char_count": 1235,
+      "telugu_ratio": 1.7346,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 123,
+      "extracted_text_length": 1609,
+      "telugu_char_count": 1337,
+      "telugu_ratio": 1.7756,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 124,
+      "extracted_text_length": 1247,
+      "telugu_char_count": 980,
+      "telugu_ratio": 1.7658,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 125,
+      "extracted_text_length": 1772,
+      "telugu_char_count": 1467,
+      "telugu_ratio": 1.7569,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 126,
+      "extracted_text_length": 1284,
+      "telugu_char_count": 997,
+      "telugu_ratio": 1.719,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 127,
+      "extracted_text_length": 1713,
+      "telugu_char_count": 1386,
+      "telugu_ratio": 1.7634,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 128,
+      "extracted_text_length": 1581,
+      "telugu_char_count": 1286,
+      "telugu_ratio": 1.7402,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 129,
+      "extracted_text_length": 1363,
+      "telugu_char_count": 1066,
+      "telugu_ratio": 1.7447,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 130,
+      "extracted_text_length": 1778,
+      "telugu_char_count": 1484,
+      "telugu_ratio": 1.7459,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 131,
+      "extracted_text_length": 1113,
+      "telugu_char_count": 847,
+      "telugu_ratio": 1.7321,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 132,
+      "extracted_text_length": 1612,
+      "telugu_char_count": 1346,
+      "telugu_ratio": 1.7323,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 133,
+      "extracted_text_length": 1454,
+      "telugu_char_count": 1190,
+      "telugu_ratio": 1.7197,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 134,
+      "extracted_text_length": 1184,
+      "telugu_char_count": 924,
+      "telugu_ratio": 1.7567,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 135,
+      "extracted_text_length": 1585,
+      "telugu_char_count": 1304,
+      "telugu_ratio": 1.7717,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 136,
+      "extracted_text_length": 1139,
+      "telugu_char_count": 883,
+      "telugu_ratio": 1.6981,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 137,
+      "extracted_text_length": 1536,
+      "telugu_char_count": 1250,
+      "telugu_ratio": 1.768,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 138,
+      "extracted_text_length": 1615,
+      "telugu_char_count": 1317,
+      "telugu_ratio": 1.7193,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 139,
+      "extracted_text_length": 1243,
+      "telugu_char_count": 966,
+      "telugu_ratio": 1.6829,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 140,
+      "extracted_text_length": 1476,
+      "telugu_char_count": 1223,
+      "telugu_ratio": 1.7274,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 141,
+      "extracted_text_length": 1157,
+      "telugu_char_count": 896,
+      "telugu_ratio": 1.7034,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 142,
+      "extracted_text_length": 1549,
+      "telugu_char_count": 1275,
+      "telugu_ratio": 1.7206,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 143,
+      "extracted_text_length": 1464,
+      "telugu_char_count": 1205,
+      "telugu_ratio": 1.7489,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 144,
+      "extracted_text_length": 1163,
+      "telugu_char_count": 883,
+      "telugu_ratio": 1.728,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 145,
+      "extracted_text_length": 1565,
+      "telugu_char_count": 1287,
+      "telugu_ratio": 1.7463,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 146,
+      "extracted_text_length": 1165,
+      "telugu_char_count": 898,
+      "telugu_ratio": 1.7269,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 147,
+      "extracted_text_length": 1562,
+      "telugu_char_count": 1260,
+      "telugu_ratio": 1.7237,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 148,
+      "extracted_text_length": 1404,
+      "telugu_char_count": 1147,
+      "telugu_ratio": 1.7352,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 149,
+      "extracted_text_length": 1273,
+      "telugu_char_count": 996,
+      "telugu_ratio": 1.7026,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 150,
+      "extracted_text_length": 1615,
+      "telugu_char_count": 1339,
+      "telugu_ratio": 1.7806,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 151,
+      "extracted_text_length": 1288,
+      "telugu_char_count": 1030,
+      "telugu_ratio": 1.7399,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 152,
+      "extracted_text_length": 1497,
+      "telugu_char_count": 1221,
+      "telugu_ratio": 1.7125,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 153,
+      "extracted_text_length": 1492,
+      "telugu_char_count": 1225,
+      "telugu_ratio": 1.7327,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 154,
+      "extracted_text_length": 1171,
+      "telugu_char_count": 893,
+      "telugu_ratio": 1.6977,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 155,
+      "extracted_text_length": 1688,
+      "telugu_char_count": 1389,
+      "telugu_ratio": 1.7472,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 156,
+      "extracted_text_length": 1195,
+      "telugu_char_count": 925,
+      "telugu_ratio": 1.6941,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 157,
+      "extracted_text_length": 1643,
+      "telugu_char_count": 1317,
+      "telugu_ratio": 1.7467,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 158,
+      "extracted_text_length": 1468,
+      "telugu_char_count": 1205,
+      "telugu_ratio": 1.7591,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 159,
+      "extracted_text_length": 1280,
+      "telugu_char_count": 975,
+      "telugu_ratio": 1.7318,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 160,
+      "extracted_text_length": 1564,
+      "telugu_char_count": 1296,
+      "telugu_ratio": 1.7443,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 161,
+      "extracted_text_length": 1208,
+      "telugu_char_count": 910,
+      "telugu_ratio": 1.7366,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 162,
+      "extracted_text_length": 1620,
+      "telugu_char_count": 1343,
+      "telugu_ratio": 1.7533,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 163,
+      "extracted_text_length": 1405,
+      "telugu_char_count": 1147,
+      "telugu_ratio": 1.7405,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 164,
+      "extracted_text_length": 1030,
+      "telugu_char_count": 782,
+      "telugu_ratio": 1.7854,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 165,
+      "extracted_text_length": 1613,
+      "telugu_char_count": 1341,
+      "telugu_ratio": 1.7622,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 166,
+      "extracted_text_length": 1281,
+      "telugu_char_count": 1050,
+      "telugu_ratio": 1.7529,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 167,
+      "extracted_text_length": 1114,
+      "telugu_char_count": 858,
+      "telugu_ratio": 1.7618,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 168,
+      "extracted_text_length": 1334,
+      "telugu_char_count": 1107,
+      "telugu_ratio": 1.7297,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 169,
+      "extracted_text_length": 1246,
+      "telugu_char_count": 1032,
+      "telugu_ratio": 1.7762,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 170,
+      "extracted_text_length": 1302,
+      "telugu_char_count": 1013,
+      "telugu_ratio": 1.7376,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 171,
+      "extracted_text_length": 1546,
+      "telugu_char_count": 1267,
+      "telugu_ratio": 1.7524,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 172,
+      "extracted_text_length": 1198,
+      "telugu_char_count": 937,
+      "telugu_ratio": 1.7449,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 173,
+      "extracted_text_length": 1712,
+      "telugu_char_count": 1438,
+      "telugu_ratio": 1.7688,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 174,
+      "extracted_text_length": 1135,
+      "telugu_char_count": 887,
+      "telugu_ratio": 1.7124,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 175,
+      "extracted_text_length": 1605,
+      "telugu_char_count": 1316,
+      "telugu_ratio": 1.743,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 176,
+      "extracted_text_length": 1379,
+      "telugu_char_count": 1127,
+      "telugu_ratio": 1.7285,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 177,
+      "extracted_text_length": 1195,
+      "telugu_char_count": 930,
+      "telugu_ratio": 1.7714,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 178,
+      "extracted_text_length": 1563,
+      "telugu_char_count": 1294,
+      "telugu_ratio": 1.7139,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 179,
+      "extracted_text_length": 1054,
+      "telugu_char_count": 815,
+      "telugu_ratio": 1.7489,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 180,
+      "extracted_text_length": 1466,
+      "telugu_char_count": 1194,
+      "telugu_ratio": 1.7355,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 181,
+      "extracted_text_length": 1269,
+      "telugu_char_count": 1032,
+      "telugu_ratio": 1.7286,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 182,
+      "extracted_text_length": 1189,
+      "telugu_char_count": 934,
+      "telugu_ratio": 1.7264,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 183,
+      "extracted_text_length": 1496,
+      "telugu_char_count": 1242,
+      "telugu_ratio": 1.7794,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 184,
+      "extracted_text_length": 1118,
+      "telugu_char_count": 849,
+      "telugu_ratio": 1.7541,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 185,
+      "extracted_text_length": 1759,
+      "telugu_char_count": 1462,
+      "telugu_ratio": 1.7467,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 186,
+      "extracted_text_length": 1428,
+      "telugu_char_count": 1159,
+      "telugu_ratio": 1.7324,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 187,
+      "extracted_text_length": 1253,
+      "telugu_char_count": 991,
+      "telugu_ratio": 1.7325,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 188,
+      "extracted_text_length": 1598,
+      "telugu_char_count": 1338,
+      "telugu_ratio": 1.7132,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 189,
+      "extracted_text_length": 1175,
+      "telugu_char_count": 932,
+      "telugu_ratio": 1.7585,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 190,
+      "extracted_text_length": 1463,
+      "telugu_char_count": 1184,
+      "telugu_ratio": 1.6987,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 191,
+      "extracted_text_length": 1428,
+      "telugu_char_count": 1160,
+      "telugu_ratio": 1.7009,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 192,
+      "extracted_text_length": 1212,
+      "telugu_char_count": 952,
+      "telugu_ratio": 1.7278,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 193,
+      "extracted_text_length": 1548,
+      "telugu_char_count": 1288,
+      "telugu_ratio": 1.7453,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 194,
+      "extracted_text_length": 1087,
+      "telugu_char_count": 835,
+      "telugu_ratio": 1.7181,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 195,
+      "extracted_text_length": 1632,
+      "telugu_char_count": 1341,
+      "telugu_ratio": 1.7303,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 196,
+      "extracted_text_length": 1225,
+      "telugu_char_count": 969,
+      "telugu_ratio": 1.7304,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 197,
+      "extracted_text_length": 1421,
+      "telugu_char_count": 1165,
+      "telugu_ratio": 1.7598,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 198,
+      "extracted_text_length": 1347,
+      "telugu_char_count": 1093,
+      "telugu_ratio": 1.7658,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 199,
+      "extracted_text_length": 1322,
+      "telugu_char_count": 1049,
+      "telugu_ratio": 1.7197,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 200,
+      "extracted_text_length": 1447,
+      "telugu_char_count": 1189,
+      "telugu_ratio": 1.7232,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 201,
+      "extracted_text_length": 1421,
+      "telugu_char_count": 1123,
+      "telugu_ratio": 1.7224,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 202,
+      "extracted_text_length": 1557,
+      "telugu_char_count": 1289,
+      "telugu_ratio": 1.7349,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 203,
+      "extracted_text_length": 1634,
+      "telugu_char_count": 1301,
+      "telugu_ratio": 1.7301,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 204,
+      "extracted_text_length": 1745,
+      "telugu_char_count": 1436,
+      "telugu_ratio": 1.7343,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 205,
+      "extracted_text_length": 1194,
+      "telugu_char_count": 929,
+      "telugu_ratio": 1.7204,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 206,
+      "extracted_text_length": 1532,
+      "telugu_char_count": 1253,
+      "telugu_ratio": 1.6932,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 207,
+      "extracted_text_length": 1519,
+      "telugu_char_count": 1202,
+      "telugu_ratio": 1.7345,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 208,
+      "extracted_text_length": 1845,
+      "telugu_char_count": 1531,
+      "telugu_ratio": 1.7378,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 209,
+      "extracted_text_length": 1142,
+      "telugu_char_count": 896,
+      "telugu_ratio": 1.7165,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 210,
+      "extracted_text_length": 1444,
+      "telugu_char_count": 1206,
+      "telugu_ratio": 1.7378,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 211,
+      "extracted_text_length": 1006,
+      "telugu_char_count": 814,
+      "telugu_ratio": 1.7696,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 212,
+      "extracted_text_length": 1215,
+      "telugu_char_count": 939,
+      "telugu_ratio": 1.7166,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 213,
+      "extracted_text_length": 1584,
+      "telugu_char_count": 1322,
+      "telugu_ratio": 1.7191,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 214,
+      "extracted_text_length": 1100,
+      "telugu_char_count": 854,
+      "telugu_ratio": 1.7464,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 215,
+      "extracted_text_length": 1619,
+      "telugu_char_count": 1345,
+      "telugu_ratio": 1.7047,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 216,
+      "extracted_text_length": 1642,
+      "telugu_char_count": 1365,
+      "telugu_ratio": 1.7681,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 217,
+      "extracted_text_length": 1236,
+      "telugu_char_count": 963,
+      "telugu_ratio": 1.7573,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 218,
+      "extracted_text_length": 1598,
+      "telugu_char_count": 1325,
+      "telugu_ratio": 1.7714,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 219,
+      "extracted_text_length": 1064,
+      "telugu_char_count": 824,
+      "telugu_ratio": 1.7238,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 220,
+      "extracted_text_length": 1404,
+      "telugu_char_count": 1131,
+      "telugu_ratio": 1.7373,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 221,
+      "extracted_text_length": 1391,
+      "telugu_char_count": 1145,
+      "telugu_ratio": 1.7508,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 222,
+      "extracted_text_length": 1390,
+      "telugu_char_count": 1109,
+      "telugu_ratio": 1.7382,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 223,
+      "extracted_text_length": 1680,
+      "telugu_char_count": 1385,
+      "telugu_ratio": 1.7312,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 224,
+      "extracted_text_length": 1178,
+      "telugu_char_count": 919,
+      "telugu_ratio": 1.7505,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 225,
+      "extracted_text_length": 1705,
+      "telugu_char_count": 1427,
+      "telugu_ratio": 1.7424,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 226,
+      "extracted_text_length": 1018,
+      "telugu_char_count": 776,
+      "telugu_ratio": 1.7636,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 227,
+      "extracted_text_length": 1470,
+      "telugu_char_count": 1225,
+      "telugu_ratio": 1.7677,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 228,
+      "extracted_text_length": 1430,
+      "telugu_char_count": 1187,
+      "telugu_ratio": 1.7303,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 229,
+      "extracted_text_length": 1328,
+      "telugu_char_count": 1045,
+      "telugu_ratio": 1.7534,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 230,
+      "extracted_text_length": 1631,
+      "telugu_char_count": 1370,
+      "telugu_ratio": 1.7632,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 231,
+      "extracted_text_length": 1197,
+      "telugu_char_count": 934,
+      "telugu_ratio": 1.7656,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 232,
+      "extracted_text_length": 1535,
+      "telugu_char_count": 1265,
+      "telugu_ratio": 1.7424,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 233,
+      "extracted_text_length": 1333,
+      "telugu_char_count": 1096,
+      "telugu_ratio": 1.7342,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 234,
+      "extracted_text_length": 1269,
+      "telugu_char_count": 992,
+      "telugu_ratio": 1.7496,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 235,
+      "extracted_text_length": 1637,
+      "telugu_char_count": 1366,
+      "telugu_ratio": 1.7357,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 236,
+      "extracted_text_length": 1126,
+      "telugu_char_count": 854,
+      "telugu_ratio": 1.7358,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 237,
+      "extracted_text_length": 1430,
+      "telugu_char_count": 1175,
+      "telugu_ratio": 1.733,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 238,
+      "extracted_text_length": 1347,
+      "telugu_char_count": 1120,
+      "telugu_ratio": 1.75,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 239,
+      "extracted_text_length": 1229,
+      "telugu_char_count": 951,
+      "telugu_ratio": 1.7386,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 240,
+      "extracted_text_length": 1684,
+      "telugu_char_count": 1406,
+      "telugu_ratio": 1.7865,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 241,
+      "extracted_text_length": 1127,
+      "telugu_char_count": 857,
+      "telugu_ratio": 1.7526,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 242,
+      "extracted_text_length": 1644,
+      "telugu_char_count": 1373,
+      "telugu_ratio": 1.749,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 243,
+      "extracted_text_length": 1378,
+      "telugu_char_count": 1098,
+      "telugu_ratio": 1.7373,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 244,
+      "extracted_text_length": 1617,
+      "telugu_char_count": 1319,
+      "telugu_ratio": 1.7587,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 245,
+      "extracted_text_length": 1330,
+      "telugu_char_count": 1084,
+      "telugu_ratio": 1.7512,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 246,
+      "extracted_text_length": 1361,
+      "telugu_char_count": 1080,
+      "telugu_ratio": 1.7252,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 247,
+      "extracted_text_length": 1536,
+      "telugu_char_count": 1285,
+      "telugu_ratio": 1.7133,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    },
+    {
+      "page_number": 248,
+      "extracted_text_length": 950,
+      "telugu_char_count": 793,
+      "telugu_ratio": 1.7701,
+      "image_count": 0,
+      "classification": "text_based",
+      "ocr_recommended": false,
+      "notes": "Embedded text appears extractable."
+    }
+  ]
+}

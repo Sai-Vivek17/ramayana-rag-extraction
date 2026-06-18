@@ -1,0 +1,32 @@
+{
+  "style": "standard_readable_sanskrit_english",
+  "principles": [
+    "Prefer widely recognized English spellings used in Ramayana scholarship.",
+    "Preserve epic terms such as Dharma, Rishi, Rakshasa, Vanara, Yajna, and Kanda instead of flattening them into modern equivalents.",
+    "Use honorifics such as Sri, Maharshi, and Devi only when present or strongly implied by devotional phrasing.",
+    "Keep person, place, Kanda, and theological term spellings consistent across all chunks.",
+    "When OCR uncertainty affects meaning, mark uncertainty in translation_notes instead of inventing content."
+  ],
+  "normalizations": {
+    "Sri Rama": ["Shri Rama", "Sree Rama", "Sri Ram"],
+    "Rama": ["Ram", "Raama"],
+    "Sita": ["Seetha", "Sitha"],
+    "Lakshmana": ["Lakshman", "Laxmana"],
+    "Dasharatha": ["Dasaratha", "Dasharath"],
+    "Vasishtha": ["Vasishta", "Vashishta"],
+    "Vishwamitra": ["Viswamitra", "Vishvamitra"],
+    "Valmiki": ["Valmeeki", "Valmeeki Maharshi"],
+    "Ravana": ["Raavana"],
+    "Hanuman": ["Hanumantha", "Anjaneya"],
+    "Sugriva": ["Sugreeva"],
+    "Vali": ["Bali"],
+    "Ayodhya": ["Ayodhya Nagari"],
+    "Mithila": ["Mithila Nagari"],
+    "Sarayu": ["Sarayoo"],
+    "Ganga": ["Ganges"],
+    "Yajna": ["Yaga", "Yagna"],
+    "Rakshasa": ["Rakshas", "Rakshasa demon"],
+    "Vanara": ["Monkey warrior"]
+  }
+}
+

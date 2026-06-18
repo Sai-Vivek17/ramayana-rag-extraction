@@ -1,0 +1,21 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+logs/
+*.log
+.DS_Store
+Thumbs.db
+
+# Keep assignment outputs commit-ready.
+!data/output/*.json
+!data/output/*.jsonl
+!data/output/*.csv
+!data/output/*.md
+!data/extracted/*.json
+!data/extracted/*.jsonl
+!data/glossary/*.json
