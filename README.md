@@ -273,3 +273,5 @@ Final local test result:
 - Logs are ignored.
 - API keys are read from environment variables only.
 - No secrets are present in committed output files.
+<img width="1914" height="1076" alt="Screenshot 2026-06-18 204247" src="https://github.com/user-attachments/assets/e870a3c2-d1ec-4d81-a1c8-d3cb4846af6a" />
+<img width="1919" height="1071" alt="Screenshot 2026-06-18 204328" src="https://github.com/user-attachments/assets/efb7ccd2-7d7b-4447-bc41-6e75eddef322" />
