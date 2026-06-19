@@ -59,24 +59,6 @@ The app includes:
 - Quality report page
 - Safe settings page that never reveals the API key
 
-Optional screenshot capture command, after the app is running:
-
-```powershell
-New-Item -ItemType Directory -Force -Path docs\screenshots
-```
-
-Then capture the page using any browser screenshot tool and save it as:
-
-```text
-docs/screenshots/streamlit-dashboard.png
-```
-
-If added, reference it in this README with:
-
-```markdown
-![Streamlit dashboard](docs/screenshots/streamlit-dashboard.png)
-```
-
 ## Repository Structure
 
 ```text
